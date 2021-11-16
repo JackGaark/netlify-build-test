@@ -13,7 +13,7 @@
     "@apollo/client": "^3.0.0-beta.33",
     "@theme-ui/presets": "^0.3.0",
     "apollo-link-context": "^1.0.19",
-    "aws-sdk": "^2.619.0",
+    "aws-sdk": "^2.814.0",
     "faunadb": "^2.11.1",
     "gatsby": "^2.19.12",
     "gatsby-plugin-create-client-paths": "^2.1.22",
